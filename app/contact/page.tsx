@@ -19,7 +19,7 @@ export default function ContactPage() {
               <img
                 src="/logo.png"
                 alt="Apex Consult logo"
-                className="h-36 w-auto drop-shadow-[0_0_30px_rgba(41,169,234,0.45)]"
+                className="h-56 w-auto drop-shadow-[0_0_30px_rgba(41,169,234,0.45)]"
               />
             </div>
 
