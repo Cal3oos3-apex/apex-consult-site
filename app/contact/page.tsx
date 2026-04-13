@@ -117,7 +117,7 @@ export default function ContactPage() {
 
               <div className="mt-5 space-y-3 border-t border-white/10 pt-5 text-white/75">
                 <p>Sean@apexconsult.pro</p>
-                <p>805 906 9331</p>
+                <p>805 751 3743</p>
               </div>
             </div>
           </div>
